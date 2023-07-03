@@ -18,7 +18,7 @@ The Movielens dataset used for this analysis can be found at [GroupLens Research
 
 ## Files
 
-- `movielens.sql`: SQL script containing the queries used to perform the analysis on the Movielens dataset.
+- `Movielens.sql`: SQL script containing the queries used to perform the analysis on the Movielens dataset.
 
 ## Usage
 
@@ -34,7 +34,7 @@ To perform the analysis using PostgreSQL:
 
 ## Analysis Insights
 
-The SQL queries in `analysis.sql` cover various aspects of the Movielens dataset. Some of the insights derived from the analysis include:
+The SQL queries in `Movielens.sql` cover various aspects of the Movielens dataset. Some of the insights derived from the analysis include:
 
 - Popular movies based on the number of ratings and average ratings.
 - Top-rated genres and their respective ratings.
