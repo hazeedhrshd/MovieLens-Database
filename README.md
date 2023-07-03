@@ -1,6 +1,5 @@
 # Analysis of Movielens Using PostgreSQL
 
-![Movielens](movielens.jpg)
 
 This repository contains an analysis of the Movielens dataset using PostgreSQL. The analysis aims to gain insights into movie ratings, user behavior, and other relevant information to better understand the preferences of users.
 
