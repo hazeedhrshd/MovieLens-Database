@@ -9,7 +9,7 @@ Movielens is a popular dataset that contains movie ratings and other metadata. T
 
 ## Data
 
-The Movielens dataset used for this analysis can be found at [GroupLens Research](https://grouplens.org/datasets/movielens/). It consists of the following data files:
+The dataset consists of the following data files:
 
 - `movies.csv`: Contains movie information, such as movie ID, title, genre and year.
 - `tags.csv`: Contains movie tags, including user ID, movie ID, and timestamp.
