@@ -49,3 +49,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 
 I hope you find the analysis of Movielens using PostgreSQL interesting and insightful! Thank you for visiting the repository.
+
+Happy analyzing! 🎥🚀
