@@ -24,13 +24,11 @@ The dataset consists of the following data files:
 
 To perform the analysis using PostgreSQL:
 
-1. Download the Movielens dataset and place the CSV files (`movies.csv`, `ratings.csv`, and `users.csv`) in a directory accessible by your PostgreSQL instance.
+1. Download the Movielens dataset and place the CSV files (`movies.csv`, `ratings.csv`,`links.csv`, and `tags.csv`) in a directory accessible by your PostgreSQL instance.
 
 2. Connect to your PostgreSQL database using a client of your choice.
 
-3. Execute the SQL queries in `analysis.sql` in the PostgreSQL database to perform the analysis.
-
-4. Review the results in the `results/` folder, which will contain the output of the queries.
+3. Execute the SQL queries in `Movielens.sql` in the PostgreSQL database to perform the analysis.
 
 ## Analysis Insights
 
